@@ -1,0 +1,4 @@
+sudo service docker start
+docker pull jenkins
+sudo docker images
+docker inspect jenkins
